@@ -6,10 +6,6 @@ print(lst)
 
 print("hello")  
 
-print("salom")
-
-print("Foundation")
-
 print("Jack")
 
 print("Ular")
