@@ -4,4 +4,6 @@ lst.sort(key=lambda x: x[1])
 
 print(lst)
 
-print("hello")
+print("hello")  
+
+print("salom")
